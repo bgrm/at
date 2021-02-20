@@ -60,9 +60,9 @@ czasy podane są w formacie czas w sekundach na inicjalizację / średni czas na
 
 test		heap					tree					array
 
-banan.in	6*10^-6 / 4*10^-6		10^-5 / 4*10^-6			10^-5 / 2*10^-6
+banan.in	6*10^-6 / 4*10^-6			10^-5 / 4*10^-6			10^-5 / 2*10^-6
 
-big1.in		7*10^-3 / 6*10^-4		3*10^-3 / 3*10^-6		4*10^-3 / 2*10^-5
+big1.in		7*10^-3 / 6*10^-4			3*10^-3 / 3*10^-6		4*10^-3 / 2*10^-5
 
 big2.in		2.5 / 0.12				0.6 / 4*10^-5			0.8 / 0.001
 
